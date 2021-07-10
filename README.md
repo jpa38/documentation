@@ -1,6 +1,5 @@
 # documentation
 
-
 Ce dépot regroupe mes préconisations sur la documentation de code/projet.
 
 ## Organisation du dépot
